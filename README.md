@@ -1,4 +1,4 @@
-# LearToCode Project
+# LearnToCode Project
 Python
 
 
